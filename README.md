@@ -1,4 +1,4 @@
-# ezAIx_Community
+# ezAIx_Community- MSTeams_Goodies
 
 ## Welcome to MSTeams_Goodies
 This repository is a collection of PowerShell scripts tailored to enhance the Microsoft Teams experience. Designed with EZAIX expertise, these scripts aim to simplify workflows, improve automation, and provide practical solutions for Teams administration.
