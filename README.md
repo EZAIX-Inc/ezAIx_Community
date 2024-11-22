@@ -12,7 +12,7 @@ This repository is a collection of PowerShell scripts tailored to enhance the Mi
 ### Installation:
 1. Clone this repository to your local system:
    ```bash
-   git clone https://github.com/EZAIXPaul/MSTeams_Goodies.git
+   git@github.com:EZAIX-Inc/ezAIx_Community.git
 
 
 Navigate to the directory:
